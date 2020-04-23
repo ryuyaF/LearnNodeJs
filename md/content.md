@@ -308,19 +308,11 @@ Heroku CLIを使って適当にデプロイ！
 
 >>>
 
-出来たけど、、
+出来た！
 
-アクセスするとアプリがクラッシュする
+[アクセス](https://guarded-temple-43209.herokuapp.com/)はこちらから
 
 ![sample-3](./images/chat-sample/sample-3.png)
-
->>>
-
-どういうことだってばよ
-
->>>
-
-どなたか私にデプロイの仕方教えてください
 
 >>>
 
